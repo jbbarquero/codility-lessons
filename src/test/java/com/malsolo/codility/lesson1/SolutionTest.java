@@ -1,4 +1,4 @@
-package com.malsolo.codility;
+package com.malsolo.codility.lesson1;
 
 import static org.junit.Assert.*;
 
