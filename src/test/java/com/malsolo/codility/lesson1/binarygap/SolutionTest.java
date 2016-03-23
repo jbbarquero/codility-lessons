@@ -1,10 +1,10 @@
-package com.malsolo.codility.lesson1;
+package com.malsolo.codility.lesson1.binarygap;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.malsolo.codility.lesson1.Solution;
+import com.malsolo.codility.lesson1.binarygap.Solution;
 
 public class SolutionTest {
 	

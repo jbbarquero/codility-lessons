@@ -1,8 +1,10 @@
-package com.malsolo.codility.sampletest;
+package com.malsolo.codility.sampletest.equilibriumindex;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.malsolo.codility.sampletest.equilibriumindex.Solution;
 
 public class SolutionTest {
 

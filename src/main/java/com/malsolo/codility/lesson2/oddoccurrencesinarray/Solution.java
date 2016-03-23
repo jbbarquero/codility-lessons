@@ -1,9 +1,17 @@
-package com.malsolo.codility.lesson2.OddOccurrencesInArray;
+package com.malsolo.codility.lesson2.oddoccurrencesinarray;
 
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+/**
+ * Lesson 2.
+ * 
+ * OddOccurrencesInArray. Find value that occurs in odd number of elements.
+ * 
+ * See https://codility.com/programmers/task/odd_occurrences_in_array/
+ *
+ */
 public class Solution {
 
     public int solution(int[] array) {

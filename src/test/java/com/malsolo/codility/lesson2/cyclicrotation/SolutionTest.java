@@ -1,4 +1,4 @@
-package com.malsolo.codility.lesson2;
+package com.malsolo.codility.lesson2.cyclicrotation;
 
 import static org.junit.Assert.assertTrue;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import com.malsolo.codility.lesson2.Solution;
+import com.malsolo.codility.lesson2.cyclicrotation.Solution;
 
 public class SolutionTest {
 

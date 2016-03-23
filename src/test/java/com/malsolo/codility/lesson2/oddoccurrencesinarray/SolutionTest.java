@@ -1,8 +1,10 @@
-package com.malsolo.codility.lesson2.OddOccurrencesInArray;
+package com.malsolo.codility.lesson2.oddoccurrencesinarray;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.malsolo.codility.lesson2.oddoccurrencesinarray.Solution;
 
 public class SolutionTest {
 
